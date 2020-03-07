@@ -12,7 +12,7 @@ import javax.servlet.annotation.WebFilter;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import br.com.impacta.javaweb.pojo.Usuario;
+import br.com.impacta.javaweb.models.Usuario;
 
 @WebFilter(
 		dispatcherTypes = {

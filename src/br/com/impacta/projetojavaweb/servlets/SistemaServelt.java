@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import br.com.impacta.javaweb.pojo.Usuario;
+import br.com.impacta.javaweb.models.Usuario;
 
 @WebServlet("/sistema")
 public class SistemaServelt extends HttpServlet {

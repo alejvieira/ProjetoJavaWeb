@@ -1,4 +1,4 @@
-package br.com.impacta.javaweb.pojo;
+package br.com.impacta.javaweb.models;
 
 public class Usuario {
 
